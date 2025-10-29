@@ -2,3 +2,4 @@ kagglehub
 matplotlib
 pandas
 scikit-learn
+ipykernel
