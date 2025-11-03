@@ -13,6 +13,11 @@ col_names = index_names + setting_names + sensor_names
 
 def load_dataset(dataset_name, data_dir=None):
     """Load a dataset give its name"""
+    
+    if data_dir is None:
+        data_dir = DATA_DIR
+    else:
+        data_dir = Path(data_dir)
 
     train_path = data_dir / f'train_{dataset_name}.txt'
     test_path = data_dir / f'test_{dataset_name}.txt'
