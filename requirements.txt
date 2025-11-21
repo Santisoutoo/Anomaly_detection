@@ -4,3 +4,7 @@ pandas
 scikit-learn
 ipykernel
 seaborn
+numpy
+tensorflow>=2.13.0
+keras>=2.13.0
+

@@ -1,0 +1,2 @@
+method,dataset,total_units,units_detected,detection_rate,avg_first_detection_rul,avg_detection_cycle_pct,early_detections,false_positive_rate,anomaly_percentage
+LSTM_Autoencoder,FD001,100,100,100.0,66.84,67.77217336416209,67,3.0,28.3408462992584

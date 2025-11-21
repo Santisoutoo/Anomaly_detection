@@ -1,0 +1,2 @@
+method,dataset,total_units,units_detected,detection_rate,avg_first_detection_rul,avg_detection_cycle_pct,early_detections,false_positive_rate,anomaly_percentage
+TCN-VAE,FD001,100,100,100.0,148.02,27.31541224930105,100,36.0,68.07231835587223
