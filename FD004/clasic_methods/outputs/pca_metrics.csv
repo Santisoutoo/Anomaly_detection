@@ -1,0 +1,2 @@
+method,dataset,total_units,units_detected,detection_rate,avg_first_detection_rul,avg_detection_cycle_pct,early_detections,false_positive_rate,anomaly_percentage
+PCA,FD001,249,214,85.94377510040161,74.44859813084112,66.49328317370473,90,20.093457943925234,2.739636565494947

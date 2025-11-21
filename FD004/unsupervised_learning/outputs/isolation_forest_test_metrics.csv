@@ -1,0 +1,2 @@
+method,dataset,total_units,units_detected,detection_rate,avg_first_detection_rul,avg_detection_cycle_pct,early_detections,false_positive_rate,anomaly_percentage
+Isolation Forest,FD001-TEST,248,110,44.354838709677416,160.78181818181818,53.638476480365426,78,45.45454545454545,3.3192604454796917
