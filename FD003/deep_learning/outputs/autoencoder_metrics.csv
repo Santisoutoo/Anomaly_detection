@@ -1,0 +1,2 @@
+method,dataset,total_units,units_detected,detection_rate,avg_first_detection_rul,avg_detection_cycle_pct,early_detections,false_positive_rate,anomaly_percentage
+Autoencoder,FD001,100,100,100.0,146.92,42.69127181344847,89,41.0,17.508090614886733
