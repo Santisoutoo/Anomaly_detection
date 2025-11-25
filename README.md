@@ -100,7 +100,7 @@ uv pip install -r requirements.txt
 
 ## Download the Dataset
 
-The project uses the **CMAPSS Jet Engine Simulated Data** dataset from Kaggle. There are two ways to download it:
+The project uses the **CMAPSS Jet Engine Simulated Data** dataset from Kaggle. There are **two ways** to download it:
 
 ### Method 1: Automatic Script
 
