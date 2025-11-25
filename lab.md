@@ -1,7 +1,7 @@
-# 🔧 Laboratorio Unidad III — Detección de Anomalías en NASA C‑MAPSS
+# 🔧 Laboratorio Unidad III — Detección de Anomalías en NASA C-MAPSS
 
 ## 📌 Descripción general
-Proyecto para comparar 7 técnicas de detección de anomalías aplicadas al dataset NASA C‑MAPSS (simulación de degradación de motores turbofan). El objetivo es evaluar qué método detecta más tempranamente la degradación y proponer una arquitectura de mantenimiento predictivo basada en gemelos digitales.
+Proyecto para comparar 7 técnicas de detección de anomalías aplicadas al dataset NASA C-MAPSS (simulación de degradación de motores turbofan). El objetivo es evaluar qué método detecta más tempranamente la degradación y proponer una arquitectura de mantenimiento predictivo basada en gemelos digitales.
 
 ## 🎯 Objetivos
 - Implementar y comparar múltiples algoritmos de detección de anomalías.
@@ -33,7 +33,5 @@ Proyecto para comparar 7 técnicas de detección de anomalías aplicadas al data
 
 
 ## ✅ Notas rápidas
-- Versionar datasets y checkpoints grandes fuera del repositorio (p. ej., DVC / almacenamiento externo).
-- Definir métricas de detección temprana (e.g., tiempo de advertencia antes del fallo, tasa de falsos positivos).
-- Automatizar evaluación con pipelines reproducibles (scripts / CI).
+- Versionar datasets y checkpoints grandes fuera del repositorio (p. ej., DVC / almacenamiento externo)..
 
